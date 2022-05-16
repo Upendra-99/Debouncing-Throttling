@@ -1,0 +1,18 @@
+#container {
+  /* margin: auto; */
+  background-color: rgb(56, 118, 171);
+}
+#searchbar {
+  margin: auto;
+  width: fit-content;
+}
+#suggestion {
+  visibility: hidden;
+}
+#table {
+  margin: auto;
+  width: 15%;
+}
+.heading {
+  margin: auto;
+}
